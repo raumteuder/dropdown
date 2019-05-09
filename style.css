@@ -19,13 +19,14 @@ header {
   margin-left: 30px;
   background-clip: border-box;
 }
+
 .title {
   font-family: Akronim, sans-serif;
   font-size: 5rem;
   font-weight: 500;
   color: maroon;
   position: relative;
-  left: 33%;
+  left: 30%;
 }
 
 body {

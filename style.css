@@ -46,14 +46,12 @@ nav {
 }
 
 nav ul {
-  margin-left: auto;
-  margin-right: auto;
+  text-align: center;
   float: left;
   width: 100%;
 }
 
 nav ul li {
-  /* float: left; */
   text-align: center;
   list-style: none;
   position: relative;
@@ -100,7 +98,6 @@ nav ul li ul li a:hover {
 }
 
 .content-container {
-  border: 1px solid black;
   margin-top: 5rem;
   z-index: 0;
 }

@@ -3,7 +3,7 @@ body {
   margin: 0 auto;
 }
 header {
-  position: sticky;
+  position: fixed;
   width: 100%;
   top: 0;
   left: 0;
@@ -92,7 +92,7 @@ nav {
 }
 
 .content-container {
-  margin-top: 5rem;
+  margin-top: 15rem;
   z-index: 0;
 }
 
